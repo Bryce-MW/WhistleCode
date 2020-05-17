@@ -51,11 +51,12 @@ def read_char():
     return "".join(char_comp)
 
 
+ave_freq(5)
 print("High")
-highf, highv = ave_freq(5)
+highf, highv = ave_freq(10)
 print(highf)
 print("Low")
-lowf, lowv = ave_freq(5)
+lowf, lowv = ave_freq(10)
 print(lowf)
 avef = (highf + lowf) / 2
 avev = (highv + lowv) / 2
