@@ -10,7 +10,7 @@ It is possible to use other sound sources like singing or an instrement but I ha
 The closer the sound is to a sine wave, the better it will work I suspect.
 No, I did not write this readme using Whistle Code.
 
-## There are a few special charactors implemented
+## There are a few special characters implemented
 * Error is backspace
 * Wait is space
 * Shift to Wabun code is caps lock
